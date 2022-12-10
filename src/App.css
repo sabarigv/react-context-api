@@ -1,0 +1,10 @@
+.logenter{
+  color: rgb(28, 28, 33);
+  text-align: center;
+  background-color: aqua;
+  font-style: oblique;
+}
+
+.error-border{
+  border : 1px solid red !important;
+}
